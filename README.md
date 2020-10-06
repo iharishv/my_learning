@@ -1,2 +1,2 @@
 # my_learning
-Sample test
+This is Sample test
